@@ -1,0 +1,18 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\shuai\Desktop\NightwareProject\shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\shuai\Desktop\NightwareProject\shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\shuai\Desktop\NightwareProject\shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\shuai\Desktop\NightwareProject\shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.124 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

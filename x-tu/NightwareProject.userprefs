@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="29" Column="29" />
+      <File FileName="Assets\Scripts\FollowTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\Spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMove.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\PlayerShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Tags.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
