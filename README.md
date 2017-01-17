@@ -1,6 +1,8 @@
 # bunny-shooter v1.0
 update 2017/1/17
-
+项目过大，完整项目地址：
+百度云：http://pan.baidu.com/s/1o7QpaPk
+ 
 1. 闯关模式
 2. 人机对战
 
